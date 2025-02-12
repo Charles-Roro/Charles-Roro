@@ -12,7 +12,16 @@
 
 ---
 
-## 🔧 Solutions Architect & Security Projects
+## 🔧 Projects
+
+### 🔄 **CI/CD & DevSecOps**
+- **🔁 CI/CD Pipeline with AWS & Docker**  
+
+  _Integrating Terraform with Snyk, SonarQube, and Jenkins for security scanning_ → [Using Terraform along with Snyk, SonarQube, and Jenkins to check code for bugs and vulnerabilities](https://github.com/Charles-Roro/CI-CD-AWS-pipeline.git)  
+- **🔁 AWS Deployment Pipeline with Jenkins**
+
+  _Automated Build, Test, and Deployment Pipeline with Jenkins & AWS_ → [Jenkins CI/CD Pipeline for AWS Deployment](https://github.com/Charles-Roro/Jenkins-AWS-Deployment.git)
+---
 
 ### ☁️ **Cloud Infrastructure & Architecture**
 - **🔹 Multi-region Solution for a Gaming Company**  
@@ -31,12 +40,6 @@
   _Setting up a deception system using Microsoft Azure_ → [Azure Honeypot](https://github.com/Charles-Roro/ManningAzureHoneypot.git)  
 - **📊 Multi-Cloud Fake App (Website) for Wazuh Monitoring**  
   _Using Terraform, Snyk, Ansible, Nmap, and Wazuh for security insights_ → [Using Terraform, Snyk, Ansible, Nmap, and Wazuh](https://github.com/Charles-Roro/Honeyapp.git)  
-
----
-
-### 🔄 **CI/CD & DevSecOps**
-- **🔁 CI/CD Pipeline with AWS & Docker**  
-  _Integrating Terraform with Snyk, SonarQube, and Jenkins for security scanning_ → [Using Terraform along with Snyk, SonarQube, and Jenkins to check code for bugs and vulnerabilities](https://github.com/Charles-Roro/CI-CD-AWS-pipeline.git)  
 
 ---
 
