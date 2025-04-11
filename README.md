@@ -43,6 +43,11 @@
 
 ---
 
+### **Python password generater project**
+- **A simple script to create safe and secure passwords using python**
+  I will continue to update and add more features in the future! [Current version](https://github.com/Charles-Roro/python-password-project.git)
+
+
 ## 📌 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/charles-manning-127379303)  
 
